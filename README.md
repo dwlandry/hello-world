@@ -17,3 +17,7 @@ I'd like to make using GitHub a part of my regular routine.  I regularly develop
 ## Other Hobbies
 
 ## Personal Hopes and Aspirations
+
+
+**Resources**
+[Understanding the GitHub Flow](https://guides.github.com/introduction/flow/)
