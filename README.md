@@ -21,4 +21,3 @@ I'd like to make using GitHub a part of my regular routine.  I regularly develop
 
 **Various Resources**
 - [Understanding the GitHub Flow](https://guides.github.com/introduction/flow/)
--e "\n\n\nThis project needs no installation" 
