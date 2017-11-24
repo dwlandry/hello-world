@@ -7,8 +7,8 @@ My name is David and I've been working with a Engineering/Design/Construction/Co
 I'd like to make using GitHub a part of my regular routine.  I regularly develop various tools to assist in my daily work activities - historically these have been MS Excel based.  It seems to me that GitHub could be a great place for me to store these various projects, share with others, and get some feedback.  Right now these little projects tend to get spread across various hard-drives on different machines and I even forget about some tools that I have created.
 
 ## My Education
-**Lamar University - B.S. Electrical Engineering and Physics** class of 2005
-**Coursera - Deep Learning Specialization** 2017-2018
+- **Lamar University - B.S. Electrical Engineering and Physics** class of 2005
+- **Coursera - Deep Learning Specialization** 2017-2018
 
 ## Work Experience
 
