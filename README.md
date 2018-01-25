@@ -7,6 +7,28 @@ My name is David and I've been working with a Engineering/Design/Construction/Co
 I'd like to make using GitHub a part of my regular routine.  I regularly develop various tools to assist in my daily work activities - historically these have been MS Excel based.  It seems to me that GitHub could be a great place for me to store these various projects, share with others, and get some feedback.  Right now these little projects tend to get spread across various hard-drives on different machines and I even forget about some tools that I have created.
 ## Project Ideas
 - **Email and Phone Number Extracter** - create a program that will allow you to drop a csv file or xls\* file on it - the program will search the entire document and produce two files - one for unique phone numbers and another for unique email addresses.
+- **Control Valve Sizer** - size control valves by using ISA standards to calculate Cv values for different process conditions.
+- **Instrument Index Manager** - manage instrument list for industrial projects
+- **Instrument Spec Manager** - manage spec sheets for instruments.  This should contain a repository of template datasheets along with various go-bys.
+- **Instrument Datasheet Library** - Excel add-in that provides quick access to a library of datasheets.  The user should be able to manage the datasheets that show up in the list.  This could be generalized to become a library of various Excel workbooks for other disciplines besides Instrumentation.
+- **Progress Reporting Tool** - manage and track progress reports for multi-discipline projects.
+- **Rate Sheet Manager** - manage rates and rate build-ups based on different client contracts.
+- **Communication Log** - manage communication on projects - with the ability to create printer-friendly custom reports.
+- **Loop Checkout Manager** - a program to assist in the field loop-checkout/commissioning process.  Should be able to create schedule, manpower, report progress, know the status of loop folders.
+- **Expediting Log** - track the delivery status of equipment and vendor deliverables.  Be able to provide different reports, such as a three-week-lookahead of items to be delivered.
+- **Engineering Vendor Docs** - tool to manage required vendor docs - that will provide streamlined data flow from engineers to the procurement group. This program should provide the engineer with typical vendor docs for a certain type of equipment, allow the engineer to specify the required vendor docs, and seamlessly provide the procurement group with this information so that it can be integrated into the Expediting Log for tracking.
+- **Piping BOM reader** - tool to parse a BOM that has been provided in Excel format - given qty, size, description - be able to categorize and quantify components and connections for purposes of estimating the total installed cost.
+- **Pricing Catalog** - manage a pricing catalog that will serve as main repository of pricing for other software.
+- **Electrical and Instrument Takeoff Tool** - tool to quickly produce a BOM for E&I projects.  Should be able to manage pricing (tie back to Pricing Catalog) and build assemblies.  (See Accubid for go-by assemblies and catalog items.)  Prefer to have this tool be in Excel.
+- **Proposals Manager** - tool to keep track of engineering projects.  What projects are open, type of project (TIC, engineering, etc.), dates, etc.
+- **P&ID symbol reader** - program that utilized machine learning algorithms (YOLO) to identify and quantify items on a piping and instrument diagram.
+- **Procured Valves Tracking Tool** - a generalized program that can assist procurement with knowing which valves have been purchased, cross reference this list with valve lists provided from the Design group at various stages of a project.  Track PO's
+- **PO Tracker** - track POs on a project.  The PO should be validated against items from the RFQ log (or TIC).
+- **TIC Budgeting Tool** - a program that will take the items from a TIC and create budgets for Project Controls.  These should be both detailed and generalized enough to provide adequate yet maintainable tracking as construction is executed.
+- **TIC Repository** - our company produces TIC estimates using Excel.  This tool should consolidate a finalized TIC into a data repository.  This will allow for all TICs to be kept and queried as needed.  An example of an application would be to verify various factors across multiple projects.
+- **Contingency Calculator** - this one is a request from management.  Create a tool that will utilize statistics and industry practices to come up with a realistic contingency for a TIC.
+
+
 ## My Education
 - **Lamar University - B.S. Electrical Engineering and Physics** class of 2005
 - **Coursera - Deep Learning Specialization** 2017-2018
