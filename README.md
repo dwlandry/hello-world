@@ -28,6 +28,8 @@ I'd like to make using GitHub a part of my regular routine.  I regularly develop
   - Create template spec sheets
   - Create client standard spec sheets for multiple clients
   - Create company standard spec sheets
+  - Identify recently specified instruments to use as quick go-bys
+  - Quickly find go-by spec sheets at various levels - 
 - **Instrument Datasheet Library** - Excel add-in that provides quick access to a library of datasheets.  The user should be able to manage the datasheets that show up in the list.  This could be generalized to become a library of various Excel workbooks for other disciplines besides Instrumentation.
 - **Progress Reporting Tool** - manage and track progress reports for multi-discipline projects.
 - **Rate Sheet Manager** - manage rates and rate build-ups based on different client contracts.
