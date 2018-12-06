@@ -10,6 +10,24 @@ I'd like to make using GitHub a part of my regular routine.  I regularly develop
 - **Control Valve Sizer** - size control valves by using ISA standards to calculate Cv values for different process conditions.
 - **Instrument Index Manager** - manage instrument list for industrial projects
 - **Instrument Spec Manager** - manage spec sheets for instruments.  This should contain a repository of template datasheets along with various go-bys.
+  - Manage all instruments in a single location.
+  - Store the spec sheets directly in the database or map to Microsoft Excel files located in a folder.
+  - Quickly locate and search for existing spec sheets.
+  - Customize spec sheets as needed.
+  - Quickly identify process data fields and create a process data request form
+  - Keep all the spec sheets you or your team have ever created
+  - Manage spec sheets across different projects
+  - Manage spec sheets for different clients
+  - Create roles for different users granting different levels of access
+  - Track different revisions of spec sheets for the same instrument tag
+  - Store quotes for instruments
+  - Store cut sheets for instruments
+  - Store product data sheets for instruments
+  - Store vendor contact information for instruments
+  - Quickly find go-by spec sheets
+  - Create template spec sheets
+  - Create client standard spec sheets for multiple clients
+  - Create company standard spec sheets
 - **Instrument Datasheet Library** - Excel add-in that provides quick access to a library of datasheets.  The user should be able to manage the datasheets that show up in the list.  This could be generalized to become a library of various Excel workbooks for other disciplines besides Instrumentation.
 - **Progress Reporting Tool** - manage and track progress reports for multi-discipline projects.
 - **Rate Sheet Manager** - manage rates and rate build-ups based on different client contracts.
