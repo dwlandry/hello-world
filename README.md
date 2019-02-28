@@ -47,6 +47,7 @@ I'd like to make using GitHub a part of my regular routine.  I regularly develop
 - **TIC Budgeting Tool** - a program that will take the items from a TIC and create budgets for Project Controls.  These should be both detailed and generalized enough to provide adequate yet maintainable tracking as construction is executed.
 - **TIC Repository** - our company produces TIC estimates using Excel.  This tool should consolidate a finalized TIC into a data repository.  This will allow for all TICs to be kept and queried as needed.  An example of an application would be to verify various factors across multiple projects.
 - **Contingency Calculator** - this one is a request from management.  Create a tool that will utilize statistics and industry practices to come up with a realistic contingency for a TIC.
+- **Prospect Forecasting** - a tool to track job prospects and manpower requirements to meet the demands of those jobs.
 
 
 ## My Education
